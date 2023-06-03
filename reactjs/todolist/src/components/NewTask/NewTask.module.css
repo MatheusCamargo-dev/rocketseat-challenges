@@ -1,0 +1,34 @@
+.container{
+    margin-top: -27px;
+    display: flex;
+    gap: 0.5rem;
+}
+.container input{
+    width: 46rem;
+    height: 3.375rem;
+    background-color: var(--gray-500);
+    color: var(--gray-300);
+    border-radius: 0.5rem;
+    padding: 1rem 1rem;
+    border: 0;
+
+}
+
+.container button {
+    width: 5.625rem;
+    height: 3.375rem;
+    background-color: var(--blue-dark);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.25rem;
+    letter-spacing: 0em;
+    text-align: left;
+    gap: 0.5rem;
+    border: 0;
+
+}
